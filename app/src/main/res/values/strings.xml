@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Login</string>
+    <string name="homeme_forget_password">forget password?</string>
+    <string name="homeme_username">username</string>
+    <string name="homeme_password">password</string>
+    <string name="homeme_login">Log In</string>
+    <string name="homeme_sign_up">Sign Up</string>
+    <string name="homeme_Front_photo_discription">HOMEME</string>
+
+</resources>
